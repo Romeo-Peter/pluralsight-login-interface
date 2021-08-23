@@ -18,4 +18,4 @@
 
 ![layput image](https://res.cloudinary.com/romie/image/upload/v1602118911/landing%20pages/Screenshot_SluralPright.png)
 
-NOTE: This is for education purpose only. This is not intended to infringe the copyrighted work of pluralsight.com
+NOTE: This is not intended to infringe on the copyrighted work of pluralsight.com
